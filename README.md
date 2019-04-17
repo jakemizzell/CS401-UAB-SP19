@@ -9,7 +9,7 @@ Some projects had parts that were extra credit so I put my test pass percentage 
 * Project 0: C++ lists and array ; 100% (100%)
 * Project 1: C++ allocation, inheritance, virtual tables ; 63.6% (100%)
 * Project 2: JavaScript IMP interpreter ; 100%
-* Project 3: Exercises in Racket ; 95.2 (28.5)
+* Project 3: Exercises in Racket ; 95.2% (28.5%)
 * Project 4: Church Encoding in Racket ; 100% (100%)
 * Project 5: Continuation-passing style (CPS) conversion in Racket ; 100% (0%)
 * Project 6: Bottom-up closure creation in Racket ; 66.7%
