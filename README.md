@@ -1,5 +1,5 @@
-# CS401 Repo
-This is my repo upload from when I took CS 401 at the University of Alabama at Birmingham in Spring 2019 with Thomas Gilray
+# CS401: Programming Languages
+This is my repo from when I took CS401 at the University of Alabama at Birmingham in Spring 2019 with Thomas Gilray
 
 I passed all the test for the labs.
 To give you an idea of how well each repo works these are the grades I made on each project. 
